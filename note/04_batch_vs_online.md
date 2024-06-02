@@ -16,6 +16,9 @@
 
 - `Development: When we code in our computer know as development phase.`
 
+<br>
+<br>
+
 # আমাদের ml মডেল server এ আলাদা আলাদা functionality নিয়ে চলে । তার উপর ভিত্তি করে ml দুই ধরনের হয় 
 
 - `Batch learning / offline learning `
