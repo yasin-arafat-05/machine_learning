@@ -15,7 +15,7 @@
 
 ## Code Link: 
 
-`no_code_apatot`
+[code_link](https://github.com/yasin-arafat-05/machine_learning/blob/main/code/44_outlier_percentile_method.ipynb)
 
 
 
