@@ -1,0 +1,15 @@
+
+<br>
+
+# `# Kernal Trick:`
+
+<br>
+
+![image](img/img12.png)
+
+যদি আমাদের data linearly seperable না হয় তাহলে আমরা একটা function ব্যবহার করে data গুলোকে higher dimention এ নিয়ে যাই । এই function কে kernel বলে । আর এই transfromation এর process কে kernal transformation বলে । kernal function mainly, RBF, Ploynomial and sigmoid ইয়ে থাকে । আর kernal function হলো hyperparameter যেটাকে আমরা, graidsearchCV সহ নানা technique apply করে বের করি । 
+
+
+
+
+
