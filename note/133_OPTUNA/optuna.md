@@ -113,7 +113,7 @@ OPTUNA বলে, যদি  max_depth and n_estimator change করলে য�
 
 - We can also use distributed computing with optuna.
 - We can intregrate it with sklearn,tensorflow,pytorch and also for mlflow.
-
+- We can also use it in ml and also dl.
 
 <br>
 
