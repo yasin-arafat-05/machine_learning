@@ -17,5 +17,7 @@
 
 <br>
 
+**Higher dimention এ কোন অংশটুকু উপরে নিবে সেইটা একটু tricky. আমরা যদি, উপরের function এ x+somthing করলে, বাম পাশের point গুলো  উপরে উঠে যাবে । x-something করলে ডান পাশের point গুলো উপরে উঠে যাবে ।**
 
+![image](img/img14.png)
 
