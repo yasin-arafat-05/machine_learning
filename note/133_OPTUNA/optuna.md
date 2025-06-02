@@ -117,8 +117,8 @@ OPTUNA বলে, যদি  max_depth and n_estimator change করলে য�
 
 <br>
 
-# ![bayesian_search](https://arxiv.org/pdf/2304.11127)
-# ![optuna_paper](https://arxiv.org/pdf/1907.10902)
+# [bayesian_search](https://arxiv.org/pdf/2304.11127)
+# [optuna_paper](https://arxiv.org/pdf/1907.10902)
 
 <br>
 
