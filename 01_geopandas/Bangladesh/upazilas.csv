@@ -1,0 +1,493 @@
+id,district_id,name,bn_name,lat,lon,url
+1,1,Debidwar,দেবিদ্বার,23.5965294,90.9935327,debidwar.comilla.gov.bd
+2,1,Barura,বরুড়া,17.7510911,77.5547568,barura.comilla.gov.bd
+3,1,Brahmanpara,ব্রাহ্মণপাড়া,23.6145423,91.1066131,brahmanpara.comilla.gov.bd
+4,1,Chandina,চান্দিনা,23.4883756,91.0078123,chandina.comilla.gov.bd
+5,1,Chauddagram,চৌদ্দগ্রাম,23.22597,91.3134783,chauddagram.comilla.gov.bd
+6,1,Daudkandi,দাউদকান্দি,23.5373475,90.7152458,daudkandi.comilla.gov.bd
+7,1,Homna,হোমনা,23.693863,90.7809834,homna.comilla.gov.bd
+8,1,Laksam,লাকসাম,23.2362647,91.1198271,laksam.comilla.gov.bd
+9,1,Muradnagar,মুরাদনগর,28.7733808,77.5033582,muradnagar.comilla.gov.bd
+10,1,Nangalkot,নাঙ্গলকোট,0.0,0.0,nangalkot.comilla.gov.bd
+11,1,Comilla Sadar,কুমিল্লা সদর,23.4553504,91.1816815,comillasadar.comilla.gov.bd
+12,1,Meghna,মেঘনা,23.4342874,90.5831225,meghna.comilla.gov.bd
+13,1,Monohargonj,মনোহরগঞ্জ,0.0,0.0,monohargonj.comilla.gov.bd
+14,1,Sadarsouth,সদর দক্ষিণ,0.0,0.0,sadarsouth.comilla.gov.bd
+15,1,Titas,তিতাস,5.8284448,-73.0350094,titas.comilla.gov.bd
+16,1,Burichang,বুড়িচং,23.5598424,91.1259324,burichang.comilla.gov.bd
+17,1,Lalmai,লালমাই,23.2876976,91.1278632,lalmai.comilla.gov.bd
+18,2,Chhagalnaiya,ছাগলনাইয়া,0.0,0.0,chhagalnaiya.feni.gov.bd
+19,2,Feni Sadar,ফেনী সদর,0.0,0.0,sadar.feni.gov.bd
+20,2,Sonagazi,সোনাগাজী,0.0,0.0,sonagazi.feni.gov.bd
+21,2,Fulgazi,ফুলগাজী,0.0,0.0,fulgazi.feni.gov.bd
+22,2,Parshuram,পরশুরাম,17.5580167,73.5020833,parshuram.feni.gov.bd
+23,2,Daganbhuiyan,দাগনভূঞা,22.9372022,91.3026932,daganbhuiyan.feni.gov.bd
+24,3,Brahmanbaria Sadar,ব্রাহ্মণবাড়িয়া সদর,24.0755411,91.1123798,sadar.brahmanbaria.gov.bd
+25,3,Kasba,কসবা,25.8779519,87.54692722176809,kasba.brahmanbaria.gov.bd
+26,3,Nasirnagar,নাসিরনগর,24.1928465,91.1946433,nasirnagar.brahmanbaria.gov.bd
+27,3,Sarail,সরাইল,44.8981185,-0.4434221,sarail.brahmanbaria.gov.bd
+28,3,Ashuganj,আশুগঞ্জ,24.0335326,90.9972445,ashuganj.brahmanbaria.gov.bd
+29,3,Akhaura,আখাউড়া,23.8681221,91.2088835,akhaura.brahmanbaria.gov.bd
+30,3,Nabinagar,নবীনগর,24.642785,84.09682117180051,nabinagar.brahmanbaria.gov.bd
+31,3,Bancharampur,বাঞ্ছারামপুর,23.7782766,90.8058623,bancharampur.brahmanbaria.gov.bd
+32,3,Bijoynagar,বিজয়নগর,23.9532717,88.0458095,bijoynagar.brahmanbaria.gov.bd    
+33,4,Rangamati Sadar,রাঙ্গামাটি সদর,22.3247706,92.1460867,sadar.rangamati.gov.bd
+34,4,Kaptai,কাপ্তাই,22.5046788,92.2111444,kaptai.rangamati.gov.bd
+35,4,Kawkhali,কাউখালী,22.6261283,90.0592775,kawkhali.rangamati.gov.bd
+36,4,Baghaichari,বাঘাইছড়ি,0.0,0.0,baghaichari.rangamati.gov.bd
+37,4,Barkal,বরকল,22.7987515,92.3290415,barkal.rangamati.gov.bd
+38,4,Langadu,লংগদু,0.0,0.0,langadu.rangamati.gov.bd
+39,4,Rajasthali,রাজস্থলী,22.1960184,70.4389963,rajasthali.rangamati.gov.bd
+40,4,Belaichari,বিলাইছড়ি,0.0,0.0,belaichari.rangamati.gov.bd
+41,4,Juraichari,জুরাছড়ি,22.6739081,92.3811092,juraichari.rangamati.gov.bd
+42,4,Naniarchar,নানিয়ারচর,0.0,0.0,naniarchar.rangamati.gov.bd
+43,5,Noakhali Sadar,নোয়াখালী সদর,0.0,0.0,sadar.noakhali.gov.bd
+44,5,Companiganj,কোম্পানীগঞ্জ,23.6375741,90.971007,companiganj.noakhali.gov.bd
+45,5,Begumganj,বেগমগঞ্জ,22.9421436,91.0996725,begumganj.noakhali.gov.bd
+46,5,Hatia,হাতিয়া,23.2991479,85.3234589,hatia.noakhali.gov.bd
+47,5,Subarnachar,সুবর্ণচর,0.0,0.0,subarnachar.noakhali.gov.bd
+48,5,Kabirhat,কবিরহাট,22.8220772,91.1170328,kabirhat.noakhali.gov.bd
+49,5,Senbug,সেনবাগ,0.0,0.0,senbug.noakhali.gov.bd
+50,5,Chatkhil,চাটখিল,23.063094,90.9723615,chatkhil.noakhali.gov.bd
+51,5,Sonaimori,সোনাইমুড়ী,24.00115625,90.77353878192967,sonaimori.noakhali.gov.bd
+52,6,Haimchar,হাইমচর,23.0966624,90.6607486,haimchar.chandpur.gov.bd
+53,6,Kachua,কচুয়া,23.1504621,89.2700099,kachua.chandpur.gov.bd
+54,6,Shahrasti,শাহরাস্তি	,26.2256201,50.5924083,shahrasti.chandpur.gov.bd
+55,6,Chandpur Sadar,চাঁদপুর সদর,25.3075653,82.9507893,sadar.chandpur.gov.bd
+56,6,Matlab South,মতলব দক্ষিণ,23.3400396,90.7106389,matlabsouth.chandpur.gov.bd
+57,6,Hajiganj,হাজীগঞ্জ,23.2537284,90.8528584,hajiganj.chandpur.gov.bd
+58,6,Matlab North,মতলব উত্তর,23.3400396,90.7106389,matlabnorth.chandpur.gov.bd
+59,6,Faridgonj,ফরিদগঞ্জ,23.0774886,90.7655479,faridgonj.chandpur.gov.bd
+60,7,Lakshmipur Sadar,লক্ষ্মীপুর সদর,22.9344195,90.8326514,sadar.lakshmipur.gov.bd
+61,7,Kamalnagar,কমলনগর,18.2406264,77.1787242,kamalnagar.lakshmipur.gov.bd
+62,7,Raipur,রায়পুর,21.2379469,81.6336833,raipur.lakshmipur.gov.bd
+63,7,Ramgati,রামগতি,22.916415,90.8375765,ramgati.lakshmipur.gov.bd
+64,7,Ramganj,রামগঞ্জ,26.3249609,88.2873236,ramganj.lakshmipur.gov.bd
+65,8,Rangunia,রাঙ্গুনিয়া,22.45607565,92.02744288246302,rangunia.chittagong.gov.bd
+66,8,Sitakunda,সীতাকুন্ড,22.617691200000003,91.65936073313767,sitakunda.chittagong.gov.bd
+67,8,Mirsharai,মীরসরাই,22.845257150000002,91.55046437143102,mirsharai.chittagong.gov.bd
+68,8,Patiya,পটিয়া,21.5939437,77.0549494,patiya.chittagong.gov.bd
+69,8,Sandwip,সন্দ্বীপ,22.6171321,91.6530453,sandwip.chittagong.gov.bd
+70,8,Banshkhali,বাঁশখালী,22.0084916,91.9478252,banshkhali.chittagong.gov.bd
+71,8,Boalkhali,বোয়ালখালী,22.1902847,90.7703044,boalkhali.chittagong.gov.bd
+72,8,Anwara,আনোয়ারা,22.2234427,91.8754871,anwara.chittagong.gov.bd
+73,8,Chandanaish,চন্দনাইশ,22.24184855,92.02175471129706,chandanaish.chittagong.gov.bd
+74,8,Satkania,সাতকানিয়া,22.074247,92.0576236,satkania.chittagong.gov.bd
+75,8,Lohagara,লোহাগাড়া,25.8514804,87.8442549,lohagara.chittagong.gov.bd
+76,8,Hathazari,হাটহাজারী,22.498691,91.8071182,hathazari.chittagong.gov.bd
+77,8,Fatikchhari,ফটিকছড়ি,22.6843172,91.7890082,fatikchhari.chittagong.gov.bd
+78,8,Raozan,রাউজান,22.458026349999997,91.977688994239,raozan.chittagong.gov.bd
+79,8,Karnafuli,কর্ণফুলী,22.458903,92.033157,karnafuli.chittagong.gov.bd
+80,9,Coxsbazar Sadar,কক্সবাজার সদর,21.4408169,91.9768317373683,sadar.coxsbazar.gov.bd
+81,9,Chakaria,চকরিয়া,21.7662726,92.076021,chakaria.coxsbazar.gov.bd
+82,9,Kutubdia,কুতুবদিয়া,21.8174558,91.8531978,kutubdia.coxsbazar.gov.bd
+83,9,Ukhiya,উখিয়া,21.2182492,92.1441529,ukhiya.coxsbazar.gov.bd
+84,9,Moheshkhali,মহেশখালী,21.5164749,91.9801689,moheshkhali.coxsbazar.gov.bd
+85,9,Pekua,পেকুয়া,-25.3828091,-57.5729607,pekua.coxsbazar.gov.bd
+86,9,Ramu,রামু,-4.751162,144.7280082,ramu.coxsbazar.gov.bd
+87,9,Teknaf,টেকনাফ,20.8684566,92.298748,teknaf.coxsbazar.gov.bd
+88,10,Khagrachhari Sadar,খাগড়াছড়ি সদর,23.11736725,91.97533045855548,sadar.khagrachhari.gov.bd
+89,10,Dighinala,দিঘীনালা,23.2426457,92.0667283,dighinala.khagrachhari.gov.bd
+90,10,Panchari,পানছড়ি,23.2951052,91.8968907,panchari.khagrachhari.gov.bd
+91,10,Laxmichhari,লক্ষীছড়ি,0.0,0.0,laxmichhari.khagrachhari.gov.bd
+92,10,Mohalchari,মহালছড়ি,22.9360088,92.0294073,mohalchari.khagrachhari.gov.bd
+93,10,Manikchari,মানিকছড়ি,22.849548,91.8413206,manikchari.khagrachhari.gov.bd
+94,10,Ramgarh,রামগড়,23.598775949999997,85.53691564663127,ramgarh.khagrachhari.gov.bd
+95,10,Matiranga,মাটিরাঙ্গা,23.0444506,91.8684916,matiranga.khagrachhari.gov.bd
+96,10,Guimara,গুইমারা,42.8993048,-6.6896929,guimara.khagrachhari.gov.bd
+97,11,Bandarban Sadar,বান্দরবান সদর,22.1972889,92.2217498,sadar.bandarban.gov.bd
+98,11,Alikadam,আলীকদম,21.6529421,92.3129482,alikadam.bandarban.gov.bd
+99,11,Naikhongchhari,নাইক্ষ্যংছড়ি,0.0,0.0,naikhongchhari.bandarban.gov.bd
+100,11,Rowangchhari,রোয়াংছড়ি,22.178365550000002,92.33778784566442,rowangchhari.bandarban.gov.bd
+101,11,Lama,লামা,42.5767128,9.1717394,lama.bandarban.gov.bd
+102,11,Ruma,রুমা,41.8933203,12.4829321,ruma.bandarban.gov.bd
+103,11,Thanchi,থানচি,21.815601049999998,92.4392300364703,thanchi.bandarban.gov.bd
+104,12,Belkuchi,বেলকুচি,24.2970659,89.6956757,belkuchi.sirajganj.gov.bd
+105,12,Chauhali,চৌহালি,0.0,0.0,chauhali.sirajganj.gov.bd
+106,12,Kamarkhand,কামারখন্দ,0.0,0.0,kamarkhand.sirajganj.gov.bd
+107,12,Kazipur,কাজীপুর,28.577913,76.8824641,kazipur.sirajganj.gov.bd
+108,12,Raigonj,রায়গঞ্জ,0.0,0.0,raigonj.sirajganj.gov.bd
+109,12,Shahjadpur,শাহজাদপুর,23.7942325,90.42373439688129,shahjadpur.sirajganj.gov.bd
+110,12,Sirajganj Sadar,সিরাজগঞ্জ সদর,0.0,0.0,sirajganjsadar.sirajganj.gov.bd
+111,12,Tarash,তাড়াশ,45.4665476,20.2005346,tarash.sirajganj.gov.bd
+112,12,Ullapara,উল্লাপাড়া,24.4228721,89.3722144,ullapara.sirajganj.gov.bd
+113,13,Sujanagar,সুজানগর,24.39653615,88.6048759460208,sujanagar.pabna.gov.bd
+114,13,Ishurdi,ঈশ্বরদী,24.1285847,89.0653214,ishurdi.pabna.gov.bd
+115,13,Bhangura,ভাঙ্গুড়া,17.6939366,77.4456727,bhangura.pabna.gov.bd
+116,13,Pabna Sadar,পাবনা সদর,24.005,89.25,pabnasadar.pabna.gov.bd
+117,13,Bera,বেড়া,43.2813278,-1.6796472,bera.pabna.gov.bd
+118,13,Atghoria,আটঘরিয়া,0.0,0.0,atghoria.pabna.gov.bd
+119,13,Chatmohar,চাটমোহর,24.2313834,89.290206,chatmohar.pabna.gov.bd
+120,13,Santhia,সাঁথিয়া,45.366259,8.172627,santhia.pabna.gov.bd
+121,13,Faridpur,ফরিদপুর,28.19334815,79.54195008128515,faridpur.pabna.gov.bd
+122,14,Kahaloo,কাহালু,0.0,0.0,kahaloo.bogra.gov.bd
+123,14,Bogra Sadar,বগুড়া সদর,24.850206,89.37265372505973,sadar.bogra.gov.bd
+124,14,Shariakandi,সারিয়াকান্দি,0.0,0.0,shariakandi.bogra.gov.bd
+125,14,Shajahanpur,শাজাহানপুর,23.7414996,90.4215495,shajahanpur.bogra.gov.bd
+126,14,Dupchanchia,দুপচাচিঁয়া,24.8756907,89.1732126,dupchanchia.bogra.gov.bd
+127,14,Adamdighi,আদমদিঘি,24.8191808,89.0440428,adamdighi.bogra.gov.bd
+128,14,Nondigram,নন্দিগ্রাম,0.0,0.0,nondigram.bogra.gov.bd
+129,14,Sonatala,সোনাতলা,25.0439508,89.4976649,sonatala.bogra.gov.bd
+130,14,Dhunot,ধুনট,24.662635950000002,89.42037098836877,dhunot.bogra.gov.bd
+131,14,Gabtali,গাবতলী,24.8770229,89.4512705,gabtali.bogra.gov.bd
+132,14,Sherpur,শেরপুর,32.5981749,74.4925735,sherpur.bogra.gov.bd
+133,14,Shibganj,শিবগঞ্জ,25.0140345,89.359789,shibganj.bogra.gov.bd
+134,15,Paba,পবা,22.8140879,87.6788463,paba.rajshahi.gov.bd
+135,15,Durgapur,দুর্গাপুর,23.5350475,87.3380425,durgapur.rajshahi.gov.bd
+136,15,Mohonpur,মোহনপুর,23.7750467,90.3606871,mohonpur.rajshahi.gov.bd
+137,15,Charghat,চারঘাট,24.2850601,88.7469909,charghat.rajshahi.gov.bd
+138,15,Puthia,পুঠিয়া,24.3693187,88.8421421,puthia.rajshahi.gov.bd
+139,15,Bagha,বাঘা,23.7191528,86.4106599,bagha.rajshahi.gov.bd
+140,15,Godagari,গোদাগাড়ী,24.4581726,88.3285448,godagari.rajshahi.gov.bd
+141,15,Tanore,তানোর,24.5891475,88.576128,tanore.rajshahi.gov.bd
+142,15,Bagmara,বাগমারা,22.7999412,89.5617276,bagmara.rajshahi.gov.bd
+143,16,Natore Sadar,নাটোর সদর,24.4165456,88.98257,natoresadar.natore.gov.bd
+144,16,Singra,সিংড়া,40.655641,-1.3118667,singra.natore.gov.bd
+145,16,Baraigram,বড়াইগ্রাম,24.6806549,92.3431778,baraigram.natore.gov.bd
+146,16,Bagatipara,বাগাতিপাড়া,24.3694334,88.9521547,bagatipara.natore.gov.bd
+147,16,Lalpur,লালপুর,34.333393,71.024591,lalpur.natore.gov.bd
+148,16,Gurudaspur,গুরুদাসপুর,24.3679529,89.2325129,gurudaspur.natore.gov.bd
+149,16,Naldanga,নলডাঙ্গা,25.4847385,89.4710442,naldanga.natore.gov.bd
+150,17,Akkelpur,আক্কেলপুর,24.9667025,89.0169358,akkelpur.joypurhat.gov.bd
+151,17,Kalai,কালাই,50.9488,1.87468,kalai.joypurhat.gov.bd
+152,17,Khetlal,ক্ষেতলাল,24.9261107,89.3217673,khetlal.joypurhat.gov.bd
+153,17,Panchbibi,পাঁচবিবি,25.1872769,89.0196664,panchbibi.joypurhat.gov.bd
+154,17,Joypurhat Sadar,জয়পুরহাট সদর,0.0,0.0,joypurhatsadar.joypurhat.gov.bd
+155,18,Chapainawabganj Sadar,চাঁপাইনবাবগঞ্জ সদর,0.0,0.0,chapainawabganjsadar.chapainawabganj.gov.bd
+156,18,Gomostapur,গোমস্তাপুর,0.0,0.0,gomostapur.chapainawabganj.gov.bd
+157,18,Nachol,নাচোল,0.0,0.0,nachol.chapainawabganj.gov.bd
+158,18,Bholahat,ভোলাহাট,24.7716996,88.1891552,bholahat.chapainawabganj.gov.bd
+159,18,Shibganj,শিবগঞ্জ,25.0140345,89.359789,shibganj.chapainawabganj.gov.bd
+160,19,Mohadevpur,মহাদেবপুর,24.9151918,88.7456574,mohadevpur.naogaon.gov.bd
+161,19,Badalgachi,বদলগাছী,24.9682268,89.0291941,badalgachi.naogaon.gov.bd
+162,19,Patnitala,পত্নিতলা,25.0289673,88.7034878,patnitala.naogaon.gov.bd
+163,19,Dhamoirhat,ধামইরহাট,25.1559873,88.832894,dhamoirhat.naogaon.gov.bd
+164,19,Niamatpur,নিয়ামতপুর,30.5111779,76.6339946,niamatpur.naogaon.gov.bd
+165,19,Manda,মান্দা,11.6750639,-12.6257485179398,manda.naogaon.gov.bd
+166,19,Atrai,আত্রাই,25.8245334,88.7298259,atrai.naogaon.gov.bd
+167,19,Raninagar,রাণীনগর,23.9045257,89.5685712,raninagar.naogaon.gov.bd
+168,19,Naogaon Sadar,নওগাঁ সদর,24.9129436,88.75321242886253,naogaonsadar.naogaon.gov.bd
+169,19,Porsha,পোরশা,60.7239738,44.4888189,porsha.naogaon.gov.bd
+170,19,Sapahar,সাপাহার,0.0,0.0,sapahar.naogaon.gov.bd
+171,20,Manirampur,মণিরামপুর,23.0260235,89.2366229,manirampur.jessore.gov.bd
+172,20,Abhaynagar,অভয়নগর,23.8454634,91.2888352,abhaynagar.jessore.gov.bd
+173,20,Bagherpara,বাঘারপাড়া,23.2216233,89.3409129,bagherpara.jessore.gov.bd
+174,20,Chougachha,চৌগাছা,0.0,0.0,chougachha.jessore.gov.bd
+175,20,Jhikargacha,ঝিকরগাছা,23.1001273,89.0987978,jhikargacha.jessore.gov.bd
+176,20,Keshabpur,কেশবপুর,22.918348,89.2112389,keshabpur.jessore.gov.bd
+177,20,Jessore Sadar,যশোর সদর,23.1682713,89.2098441,sadar.jessore.gov.bd
+178,20,Sharsha,শার্শা,49.783333,79.7,sharsha.jessore.gov.bd
+179,21,Assasuni,আশাশুনি,22.5456097,89.1743059,assasuni.satkhira.gov.bd
+180,21,Debhata,দেবহাটা,0.0,0.0,debhata.satkhira.gov.bd
+181,21,Kalaroa,কলারোয়া,22.8784779,89.0471741,kalaroa.satkhira.gov.bd
+182,21,Satkhira Sadar,সাতক্ষীরা সদর,0.0,0.0,satkhirasadar.satkhira.gov.bd
+183,21,Shyamnagar,শ্যামনগর,22.8285164,88.3801893,shyamnagar.satkhira.gov.bd
+184,21,Tala,তালা,40.5898491,-5.53579,tala.satkhira.gov.bd
+185,21,Kaliganj,কালিগঞ্জ,23.71167265,88.28976333184055,kaliganj.satkhira.gov.bd
+186,22,Mujibnagar,মুজিবনগর,23.6475127,88.59478803159078,mujibnagar.meherpur.gov.bd
+187,22,Meherpur Sadar,মেহেরপুর সদর,0.0,0.0,meherpursadar.meherpur.gov.bd
+188,22,Gangni,গাংনী,32.8381206,91.4093248,gangni.meherpur.gov.bd
+189,23,Narail Sadar,নড়াইল সদর,0.0,0.0,narailsadar.narail.gov.bd
+190,23,Lohagara,লোহাগড়া,25.8514804,87.8442549,lohagara.narail.gov.bd
+191,23,Kalia,কালিয়া,60.3226841,60.0819128,kalia.narail.gov.bd
+192,24,Chuadanga Sadar,চুয়াডাঙ্গা সদর,23.635151049999997,88.84736219413607,chuadangasadar.chuadanga.gov.bd
+193,24,Alamdanga,আলমডাঙ্গা,23.7656496,88.9447428,alamdanga.chuadanga.gov.bd
+194,24,Damurhuda,দামুড়হুদা,23.6142025,88.7627066,damurhuda.chuadanga.gov.bd
+195,24,Jibannagar,জীবননগর,0.0,0.0,jibannagar.chuadanga.gov.bd
+196,25,Kushtia Sadar,কুষ্টিয়া সদর,0.0,0.0,kushtiasadar.kushtia.gov.bd
+197,25,Kumarkhali,কুমারখালী,23.8615887,89.2413168,kumarkhali.kushtia.gov.bd
+198,25,Khoksa,খোকসা,18.0754445,102.9122937,khoksa.kushtia.gov.bd
+199,25,Mirpur,মিরপুর,33.1486351,73.7482102,mirpurkushtia.kushtia.gov.bd
+200,25,Daulatpur,দৌলতপুর,28.4697488,81.135877026294,daulatpur.kushtia.gov.bd
+201,25,Bheramara,ভেড়ামারা,24.0202276,88.9971604,bheramara.kushtia.gov.bd
+202,26,Shalikha,শালিখা,51.9979084,104.5846939,shalikha.magura.gov.bd
+203,26,Sreepur,শ্রীপুর,26.86492655,85.78311691735945,sreepur.magura.gov.bd
+204,26,Magura Sadar,মাগুরা সদর,-4.5786201,119.8243834,magurasadar.magura.gov.bd
+205,26,Mohammadpur,মহম্মদপুর,28.2867452,76.2792598,mohammadpur.magura.gov.bd
+206,27,Paikgasa,পাইকগাছা,22.7353083,89.2666824,paikgasa.khulna.gov.bd
+207,27,Fultola,ফুলতলা,23.8690465,90.1476495,fultola.khulna.gov.bd
+208,27,Digholia,দিঘলিয়া,22.8904648,89.5366911,digholia.khulna.gov.bd
+209,27,Rupsha,রূপসা,29.257096400000002,81.5281144934748,rupsha.khulna.gov.bd
+210,27,Terokhada,তেরখাদা,22.939248,89.6736478,terokhada.khulna.gov.bd
+211,27,Dumuria,ডুমুরিয়া,22.8163016,89.4117044,dumuria.khulna.gov.bd
+212,27,Botiaghata,বটিয়াঘাটা,0.0,0.0,botiaghata.khulna.gov.bd
+213,27,Dakop,দাকোপ,22.6057911,89.4945166,dakop.khulna.gov.bd
+214,27,Koyra,কয়রা,22.3881496,89.3260789,koyra.khulna.gov.bd
+215,28,Fakirhat,ফকিরহাট,22.7809883,89.712665,fakirhat.bagerhat.gov.bd
+216,28,Bagerhat Sadar,বাগেরহাট সদর,22.6554187,89.7971746,sadar.bagerhat.gov.bd
+217,28,Mollahat,মোল্লাহাট,22.9576646,89.6798611,mollahat.bagerhat.gov.bd
+218,28,Sarankhola,শরণখোলা,0.0,0.0,sarankhola.bagerhat.gov.bd
+219,28,Rampal,রামপাল,22.5892885,89.6377943,rampal.bagerhat.gov.bd
+220,28,Morrelganj,মোড়েলগঞ্জ,0.0,0.0,morrelganj.bagerhat.gov.bd
+221,28,Kachua,কচুয়া,23.1504621,89.2700099,kachua.bagerhat.gov.bd
+222,28,Mongla,মোংলা,22.4679228,89.6040074,mongla.bagerhat.gov.bd
+223,28,Chitalmari,চিতলমারী,22.788227,89.8785812,chitalmari.bagerhat.gov.bd
+224,29,Jhenaidah Sadar,ঝিনাইদহ সদর,23.530003200000003,89.17222114431088,sadar.jhenaidah.gov.bd
+225,29,Shailkupa,শৈলকুপা,23.6883293,89.2540681,shailkupa.jhenaidah.gov.bd
+226,29,Harinakundu,হরিণাকুন্ডু,23.5495244,89.167518,harinakundu.jhenaidah.gov.bd
+227,29,Kaliganj,কালীগঞ্জ,23.71167265,88.28976333184055,kaliganj.jhenaidah.gov.bd
+228,29,Kotchandpur,কোটচাঁদপুর,23.411486,89.0054199,kotchandpur.jhenaidah.gov.bd
+229,29,Moheshpur,মহেশপুর,24.7336963,91.2823319,moheshpur.jhenaidah.gov.bd
+230,30,Jhalakathi Sadar,ঝালকাঠি সদর,22.6843646,90.19110504454349,sadar.jhalakathi.gov.bd
+231,30,Kathalia,কাঠালিয়া,23.3745946,91.35803941513026,kathalia.jhalakathi.gov.bd
+232,30,Nalchity,নলছিটি,22.6347382,90.2703307,nalchity.jhalakathi.gov.bd
+233,30,Rajapur,রাজাপুর,16.63868985,73.54605189510137,rajapur.jhalakathi.gov.bd
+234,31,Bauphal,বাউফল,22.4168127,90.5589509,bauphal.patuakhali.gov.bd
+235,31,Patuakhali Sadar,পটুয়াখালী সদর,22.3589664,90.3310543,sadar.patuakhali.gov.bd
+236,31,Dumki,দুমকি,28.8690744,75.4455947,dumki.patuakhali.gov.bd
+237,31,Dashmina,দশমিনা,22.2832457,90.5622027,dashmina.patuakhali.gov.bd
+238,31,Kalapara,কলাপাড়া,21.9860055,90.2232185,kalapara.patuakhali.gov.bd
+239,31,Mirzaganj,মির্জাগঞ্জ,24.3968692,86.1662221,mirzaganj.patuakhali.gov.bd
+240,31,Galachipa,গলাচিপা,22.1252417,90.4106998,galachipa.patuakhali.gov.bd
+241,31,Rangabali,রাঙ্গাবালী,21.93262985,90.44849174356476,rangabali.patuakhali.gov.bd
+242,32,Pirojpur Sadar,পিরোজপুর সদর,22.5789611,89.9691003,sadar.pirojpur.gov.bd
+243,32,Nazirpur,নাজিরপুর,25.0770539,90.8232318,nazirpur.pirojpur.gov.bd
+244,32,Kawkhali,কাউখালী,22.6261283,90.0592775,kawkhali.pirojpur.gov.bd
+245,32,Zianagar,জিয়ানগর,22.4839617,89.9643591,zianagar.pirojpur.gov.bd
+246,32,Bhandaria,ভান্ডারিয়া,23.71958,83.86720090469687,bhandaria.pirojpur.gov.bd
+247,32,Mathbaria,মঠবাড়ীয়া,22.2875917,89.9592718,mathbaria.pirojpur.gov.bd
+248,32,Nesarabad,নেছারাবাদ,22.73188895,90.10222738081475,nesarabad.pirojpur.gov.bd
+249,33,Barisal Sadar,বরিশাল সদর,22.7046314,90.3711417,barisalsadar.barisal.gov.bd
+250,33,Bakerganj,বাকেরগঞ্জ,22.5406451,90.3336522,bakerganj.barisal.gov.bd
+251,33,Babuganj,বাবুগঞ্জ,22.833290599999998,90.31297104839999,babuganj.barisal.gov.bd
+252,33,Wazirpur,উজিরপুর,28.1477742,79.8626245,wazirpur.barisal.gov.bd
+253,33,Banaripara,বানারীপাড়া,22.7834892,90.159408,banaripara.barisal.gov.bd
+254,33,Gournadi,গৌরনদী,22.9751303,90.2309736,gournadi.barisal.gov.bd
+255,33,Agailjhara,আগৈলঝাড়া,22.9718503,90.1587931,agailjhara.barisal.gov.bd
+256,33,Mehendiganj,মেহেন্দিগঞ্জ,22.823263,90.5275969,mehendiganj.barisal.gov.bd
+257,33,Muladi,মুলাদী,22.9132829,90.4108006,muladi.barisal.gov.bd
+258,33,Hizla,হিজলা,22.8147163,89.8934841,hizla.barisal.gov.bd
+259,34,Bhola Sadar,ভোলা সদর,22.689095,90.6405813,sadar.bhola.gov.bd
+260,34,Borhan Sddin,বোরহান উদ্দিন,0.0,0.0,borhanuddin.bhola.gov.bd
+261,34,Charfesson,চরফ্যাশন,0.0,0.0,charfesson.bhola.gov.bd
+262,34,Doulatkhan,দৌলতখান,22.67472425,90.74230399517802,doulatkhan.bhola.gov.bd
+263,34,Monpura,মনপুরা,23.83873805,90.35600139311038,monpura.bhola.gov.bd
+264,34,Tazumuddin,তজুমদ্দিন,22.45212205,90.88806967992409,tazumuddin.bhola.gov.bd
+265,34,Lalmohan,লালমোহন,22.3410585,90.7334333,lalmohan.bhola.gov.bd
+266,35,Amtali,আমতলী,22.132863,90.2311484,amtali.barguna.gov.bd
+267,35,Barguna Sadar,বরগুনা সদর,22.158905,90.1181456,sadar.barguna.gov.bd
+268,35,Betagi,বেতাগী,22.4107982,90.1598377,betagi.barguna.gov.bd
+269,35,Bamna,বামনা,26.9673276,74.2359495,bamna.barguna.gov.bd
+270,35,Pathorghata,পাথরঘাটা,22.038848950000002,89.93195366447131,pathorghata.barguna.gov.bd
+271,35,Taltali,তালতলি,22.1517957,90.4520702,taltali.barguna.gov.bd
+272,36,Balaganj,বালাগঞ্জ,24.6578683,91.8414179,balaganj.sylhet.gov.bd
+273,36,Beanibazar,বিয়ানীবাজার,24.8215475,92.1590067,beanibazar.sylhet.gov.bd
+274,36,Bishwanath,বিশ্বনাথ,26.793859599999998,93.35918562306753,bishwanath.sylhet.gov.bd
+275,36,Companiganj,কোম্পানীগঞ্জ,23.6375741,90.971007,companiganj.sylhet.gov.bd
+276,36,Fenchuganj,ফেঞ্চুগঞ্জ,24.6942465,91.9392229,fenchuganj.sylhet.gov.bd
+277,36,Golapganj,গোলাপগঞ্জ,24.8568815,92.0130004,golapganj.sylhet.gov.bd
+278,36,Gowainghat,গোয়াইনঘাট,0.0,0.0,gowainghat.sylhet.gov.bd
+279,36,Jaintiapur,জৈন্তাপুর,25.1236482,92.1462878,jaintiapur.sylhet.gov.bd
+280,36,Kanaighat,কানাইঘাট,25.0120631,92.2558595,kanaighat.sylhet.gov.bd
+281,36,Sylhet Sadar,সিলেট সদর,24.8941319,91.8664965,sylhetsadar.sylhet.gov.bd
+282,36,Zakiganj,জকিগঞ্জ,24.8765092,92.3695829,zakiganj.sylhet.gov.bd
+283,36,Dakshinsurma,দক্ষিণ সুরমা,0.0,0.0,dakshinsurma.sylhet.gov.bd
+284,36,Osmaninagar,ওসমানী নগর,24.714181,91.74486169534589,osmaninagar.sylhet.gov.bd
+285,37,Barlekha,বড়লেখা,24.7041949,92.1929218,barlekha.moulvibazar.gov.bd
+286,37,Kamolganj,কমলগঞ্জ,0.0,0.0,kamolganj.moulvibazar.gov.bd
+287,37,Kulaura,কুলাউড়া,24.5226336,92.0340732,kulaura.moulvibazar.gov.bd
+288,37,Moulvibazar Sadar,মৌলভীবাজার সদর,0.0,0.0,moulvibazarsadar.moulvibazar.gov.bd
+289,37,Rajnagar,রাজনগর,26.3859638,86.15420075198816,rajnagar.moulvibazar.gov.bd
+290,37,Sreemangal,শ্রীমঙ্গল,24.3105781,91.725133,sreemangal.moulvibazar.gov.bd
+291,37,Juri,জুড়ী,59.3557594,24.91002254373233,juri.moulvibazar.gov.bd
+292,38,Nabiganj,নবীগঞ্জ,27.191955,79.3864521,nabiganj.habiganj.gov.bd
+293,38,Bahubal,বাহুবল,24.3491292,91.5397053,bahubal.habiganj.gov.bd
+294,38,Ajmiriganj,আজমিরীগঞ্জ,24.5579044,91.2361655,ajmiriganj.habiganj.gov.bd
+295,38,Baniachong,বানিয়াচং,24.525917,91.3626738,baniachong.habiganj.gov.bd
+296,38,Lakhai,লাখাই,24.2847975,91.2506877,lakhai.habiganj.gov.bd
+297,38,Chunarughat,চুনারুঘাট,0.0,0.0,chunarughat.habiganj.gov.bd
+298,38,Habiganj Sadar,হবিগঞ্জ সদর,24.3883107,91.412571,habiganjsadar.habiganj.gov.bd
+299,38,Madhabpur,মাধবপুর,22.1203896,88.3490306,madhabpur.habiganj.gov.bd
+300,39,Sunamganj Sadar,সুনামগঞ্জ সদর,24.8783265,90.7310074,sadar.sunamganj.gov.bd
+301,39,South Sunamganj,দক্ষিণ সুনামগঞ্জ,25.1426187,91.5808008,southsunamganj.sunamganj.gov.bd
+302,39,Bishwambarpur,বিশ্বম্ভরপুর,0.0,0.0,bishwambarpur.sunamganj.gov.bd
+303,39,Chhatak,ছাতক,25.033745,91.6618288,chhatak.sunamganj.gov.bd
+304,39,Jagannathpur,জগন্নাথপুর,22.16952195,85.64390804883907,jagannathpur.sunamganj.gov.bd
+305,39,Dowarabazar,দোয়ারাবাজার,25.0399047,91.5718305,dowarabazar.sunamganj.gov.bd
+306,39,Tahirpur,তাহিরপুর,25.6044566,87.8405857,tahirpur.sunamganj.gov.bd
+307,39,Dharmapasha,ধর্মপাশা,24.934632,91.0467111,dharmapasha.sunamganj.gov.bd
+308,39,Jamalganj,জামালগঞ্জ,24.9970512,91.232135,jamalganj.sunamganj.gov.bd
+309,39,Shalla,শাল্লা,7.46491505,38.56499512460462,shalla.sunamganj.gov.bd
+310,39,Derai,দিরাই,34.5863373,72.7853277,derai.sunamganj.gov.bd
+311,40,Belabo,বেলাবো,4.9203029,13.290971,belabo.narsingdi.gov.bd
+312,40,Monohardi,মনোহরদী,24.1165317,90.6777475,monohardi.narsingdi.gov.bd
+313,40,Narsingdi Sadar,নরসিংদী সদর,23.9201435,90.7184538,narsingdisadar.narsingdi.gov.bd
+314,40,Palash,পলাশ,52.3033333,29.0338,palash.narsingdi.gov.bd
+315,40,Raipura,রায়পুরা,23.9002274,79.9648842,raipura.narsingdi.gov.bd
+316,40,Shibpur,শিবপুর,23.8664948,91.0207112,shibpur.narsingdi.gov.bd
+317,41,Kaliganj,কালীগঞ্জ,23.71167265,88.28976333184055,kaliganj.gazipur.gov.bd
+318,41,Kaliakair,কালিয়াকৈর,23.9163964,90.2115843,kaliakair.gazipur.gov.bd
+319,41,Kapasia,কাপাসিয়া,24.1385896,90.6002341,kapasia.gazipur.gov.bd
+320,41,Gazipur Sadar,গাজীপুর সদর,23.9999521,90.4197487,sadar.gazipur.gov.bd
+321,41,Sreepur,শ্রীপুর,26.86492655,85.78311691735945,sreepur.gazipur.gov.bd
+322,42,Shariatpur Sadar,শরিয়তপুর সদর,0.0,0.0,sadar.shariatpur.gov.bd
+323,42,Naria,নড়িয়া,54.0034377,20.0631177,naria.shariatpur.gov.bd
+324,42,Zajira,জাজিরা,0.0,0.0,zajira.shariatpur.gov.bd
+325,42,Gosairhat,গোসাইরহাট,0.0,0.0,gosairhat.shariatpur.gov.bd
+326,42,Bhedarganj,ভেদরগঞ্জ,23.1988139,90.447782,bhedarganj.shariatpur.gov.bd
+327,42,Damudya,ডামুড্যা,23.1419299,90.44230730763083,damudya.shariatpur.gov.bd
+328,43,Araihazar,আড়াইহাজার,23.7926714,90.6531527,araihazar.narayanganj.gov.bd
+329,43,Bandar,বন্দর,16.1819393,81.1351299,bandar.narayanganj.gov.bd
+330,43,Narayanganj Sadar,নারায়নগঞ্জ সদর,23.61991735,90.50270192289844,narayanganjsadar.narayanganj.gov.bd
+331,43,Rupganj,রূপগঞ্জ,23.7927951,90.5298399,rupganj.narayanganj.gov.bd
+332,43,Sonargaon,সোনারগাঁ,23.6421599,90.6023361,sonargaon.narayanganj.gov.bd
+333,44,Basail,বাসাইল,-27.887641,-59.2816402,basail.tangail.gov.bd
+334,44,Bhuapur,ভুয়াপুর,28.6383415,77.32258366870224,bhuapur.tangail.gov.bd
+335,44,Delduar,দেলদুয়ার,24.169158,89.9683401,delduar.tangail.gov.bd
+336,44,Ghatail,ঘাটাইল,0.0,0.0,ghatail.tangail.gov.bd
+337,44,Gopalpur,গোপালপুর,25.30946375,87.20787305955696,gopalpur.tangail.gov.bd
+338,44,Madhupur,মধুপুর,24.287867900000002,86.61050950020086,madhupur.tangail.gov.bd
+339,44,Mirzapur,মির্জাপুর,24.9356347,82.64770129811649,mirzapur.tangail.gov.bd
+340,44,Nagarpur,নাগরপুর,24.0532552,89.8739848,nagarpur.tangail.gov.bd
+341,44,Sakhipur,সখিপুর,22.5669788,88.9745164,sakhipur.tangail.gov.bd
+342,44,Tangail Sadar,টাঙ্গাইল সদর,24.251288549999998,89.91485937222222,tangailsadar.tangail.gov.bd
+343,44,Kalihati,কালিহাতী,24.3992535,89.986435,kalihati.tangail.gov.bd
+344,44,Dhanbari,ধনবাড়ী,24.6774082,89.951882,dhanbari.tangail.gov.bd
+345,45,Itna,ইটনা,12.0095164,76.4077869,itna.kishoreganj.gov.bd
+346,45,Katiadi,কটিয়াদী,24.2502962,90.7962218,katiadi.kishoreganj.gov.bd
+347,45,Bhairab,ভৈরব,23.7128753,88.6125731,bhairab.kishoreganj.gov.bd
+348,45,Tarail,তাড়াইল,24.54923,90.8912914,tarail.kishoreganj.gov.bd
+349,45,Hossainpur,হোসেনপুর,24.4168657,90.6553734,hossainpur.kishoreganj.gov.bd
+350,45,Pakundia,পাকুন্দিয়া,24.3287538,90.6805614,pakundia.kishoreganj.gov.bd
+351,45,Kuliarchar,কুলিয়ারচর,24.1515066,90.9322312,kuliarchar.kishoreganj.gov.bd
+352,45,Kishoreganj Sadar,কিশোরগঞ্জ সদর,24.3286901,90.6805477,kishoreganjsadar.kishoreganj.gov.bd
+353,45,Karimgonj,করিমগঞ্জ,0.0,0.0,karimgonj.kishoreganj.gov.bd
+354,45,Bajitpur,বাজিতপুর,24.2157623,90.9518114,bajitpur.kishoreganj.gov.bd
+355,45,Austagram,অষ্টগ্রাম,24.2743376,91.104981,austagram.kishoreganj.gov.bd
+356,45,Mithamoin,মিঠামইন,24.4149439,91.0602879,mithamoin.kishoreganj.gov.bd
+357,45,Nikli,নিকলী,24.3303482,90.9374993,nikli.kishoreganj.gov.bd
+358,46,Harirampur,হরিরামপুর,25.37881595,88.24944252597719,harirampur.manikganj.gov.bd
+359,46,Saturia,সাটুরিয়া,41.2385223,-5.5681502,saturia.manikganj.gov.bd
+360,46,Manikganj Sadar,মানিকগঞ্জ সদর,23.8706167,89.9986742,sadar.manikganj.gov.bd
+361,46,Gior,ঘিওর,7.91667,33.75,gior.manikganj.gov.bd
+362,46,Shibaloy,শিবালয়,22.5008241,88.3347262,shibaloy.manikganj.gov.bd
+363,46,Doulatpur,দৌলতপুর,23.350765,91.1711196,doulatpur.manikganj.gov.bd
+364,46,Singiar,সিংগাইর,0.0,0.0,singiar.manikganj.gov.bd
+365,47,Savar,সাভার,44.0611754,15.0163744,savar.dhaka.gov.bd
+366,47,Dhamrai,ধামরাই,23.920162,90.2108702,dhamrai.dhaka.gov.bd
+367,47,Keraniganj,কেরাণীগঞ্জ,23.69818865,90.3505261296184,keraniganj.dhaka.gov.bd
+368,47,Nawabganj,নবাবগঞ্জ,26.92228995,81.207643234204,nawabganj.dhaka.gov.bd
+369,47,Dohar,দোহার,24.4589778,69.4891961,dohar.dhaka.gov.bd
+370,48,Munshiganj Sadar,মুন্সিগঞ্জ সদর,23.5533074,90.5342845,sadar.munshiganj.gov.bd
+371,48,Sreenagar,শ্রীনগর,23.5436923,90.2920935,sreenagar.munshiganj.gov.bd
+372,48,Sirajdikhan,সিরাজদিখান,23.5701134,90.383353,sirajdikhan.munshiganj.gov.bd
+373,48,Louhajanj,লৌহজং,0.0,0.0,louhajanj.munshiganj.gov.bd
+374,48,Gajaria,গজারিয়া,0.0,0.0,gajaria.munshiganj.gov.bd
+375,48,Tongibari,টংগীবাড়ি,23.5102866,90.4659685,tongibari.munshiganj.gov.bd
+376,49,Rajbari Sadar,রাজবাড়ী সদর,24.4186779,88.9952433,sadar.rajbari.gov.bd
+377,49,Goalanda,গোয়ালন্দ,23.7240229,89.7466981,goalanda.rajbari.gov.bd
+378,49,Pangsa,পাংশা,20.932643,101.786641,pangsa.rajbari.gov.bd
+379,49,Baliakandi,বালিয়াকান্দি,23.6351881,89.5484979,baliakandi.rajbari.gov.bd
+380,49,Kalukhali,কালুখালী,22.4038188,89.29452,kalukhali.rajbari.gov.bd
+381,50,Madaripur Sadar,মাদারীপুর সদর,0.0,0.0,sadar.madaripur.gov.bd
+382,50,Shibchar,শিবচর,23.34728,90.1697226,shibchar.madaripur.gov.bd
+383,50,Kalkini,কালকিনি,23.0781315,90.2217374,kalkini.madaripur.gov.bd
+384,50,Rajoir,রাজৈর,23.2274475,90.0212501,rajoir.madaripur.gov.bd
+385,51,Gopalganj Sadar,গোপালগঞ্জ সদর,26.4607585,84.447083,sadar.gopalganj.gov.bd
+386,51,Kashiani,কাশিয়ানী,23.23649,89.7204523,kashiani.gopalganj.gov.bd
+387,51,Tungipara,টুংগীপাড়া,22.8899555,89.8973824,tungipara.gopalganj.gov.bd
+388,51,Kotalipara,কোটালীপাড়া,22.9872531,90.0049273,kotalipara.gopalganj.gov.bd
+389,51,Muksudpur,মুকসুদপুর,23.3146905,89.8696769,muksudpur.gopalganj.gov.bd
+390,52,Faridpur Sadar,ফরিদপুর সদর,25.2716389,82.9215409,sadar.faridpur.gov.bd
+391,52,Alfadanga,আলফাডাঙ্গা,23.3276949,89.6979469,alfadanga.faridpur.gov.bd
+392,52,Boalmari,বোয়ালমারী,23.3854562,89.681615,boalmari.faridpur.gov.bd
+393,52,Sadarpur,সদরপুর,24.1882055,72.4537681,sadarpur.faridpur.gov.bd
+394,52,Nagarkanda,নগরকান্দা,23.2956801,89.6849805,nagarkanda.faridpur.gov.bd
+395,52,Bhanga,ভাঙ্গা,23.389150299999997,89.98507144738963,bhanga.faridpur.gov.bd
+396,52,Charbhadrasan,চরভদ্রাসন,23.562251,90.007978,charbhadrasan.faridpur.gov.bd
+397,52,Madhukhali,মধুখালী,23.5277739,89.6499821,madhukhali.faridpur.gov.bd
+398,52,Saltha,সালথা,0.0,0.0,saltha.faridpur.gov.bd
+399,53,Panchagarh Sadar,পঞ্চগড় সদর,26.377443200000002,88.5995033705114,panchagarhsadar.panchagarh.gov.bd
+400,53,Debiganj,দেবীগঞ্জ,26.1201935,88.759245,debiganj.panchagarh.gov.bd
+401,53,Boda,বোদা,46.0808583,18.0478346,boda.panchagarh.gov.bd
+402,53,Atwari,আটোয়ারী,26.2766594,88.41221130974195,atwari.panchagarh.gov.bd
+403,53,Tetulia,তেতুলিয়া,26.52133965,88.42037208062746,tetulia.panchagarh.gov.bd
+404,54,Nawabganj,নবাবগঞ্জ,26.92228995,81.207643234204,nawabganj.dinajpur.gov.bd
+405,54,Birganj,বীরগঞ্জ,27.012541,84.877998,birganj.dinajpur.gov.bd
+406,54,Ghoraghat,ঘোড়াঘাট,25.2660298,89.2599561,ghoraghat.dinajpur.gov.bd
+407,54,Birampur,বিরামপুর,25.3905537,88.991278,birampur.dinajpur.gov.bd
+408,54,Parbatipur,পার্বতীপুর,27.5964695,84.3296754652951,parbatipur.dinajpur.gov.bd
+409,54,Bochaganj,বোচাগঞ্জ,25.8566506,88.4112167,bochaganj.dinajpur.gov.bd
+410,54,Kaharol,কাহারোল,25.7553705,88.673315,kaharol.dinajpur.gov.bd
+411,54,Fulbari,ফুলবাড়ী,27.33597255,86.29639431433444,fulbari.dinajpur.gov.bd
+412,54,Dinajpur Sadar,দিনাজপুর সদর,25.73013825,88.66729449905233,dinajpursadar.dinajpur.gov.bd
+413,54,Hakimpur,হাকিমপুর,23.7027202,89.3092608,hakimpur.dinajpur.gov.bd
+414,54,Khansama,খানসামা,25.9139671,88.7509881,khansama.dinajpur.gov.bd
+415,54,Birol,বিরল,26.2646512,73.9114237,birol.dinajpur.gov.bd
+416,54,Chirirbandar,চিরিরবন্দর,25.6458795,88.7758409,chirirbandar.dinajpur.gov.bd
+417,55,Lalmonirhat Sadar,লালমনিরহাট সদর,25.89377595,89.47057479825597,sadar.lalmonirhat.gov.bd
+418,55,Kaliganj,কালীগঞ্জ,23.71167265,88.28976333184055,kaliganj.lalmonirhat.gov.bd
+419,55,Hatibandha,হাতীবান্ধা,24.218654,90.1370877,hatibandha.lalmonirhat.gov.bd
+420,55,Patgram,পাটগ্রাম,26.3457861,89.0208507,patgram.lalmonirhat.gov.bd
+421,55,Aditmari,আদিতমারী,25.9222534,89.350972,aditmari.lalmonirhat.gov.bd
+422,56,Syedpur,সৈয়দপুর,19.6232969,78.7357897,syedpur.nilphamari.gov.bd
+423,56,Domar,ডোমার,26.106193,88.8234458,domar.nilphamari.gov.bd
+424,56,Dimla,ডিমলা,26.1514842,88.9204636,dimla.nilphamari.gov.bd
+425,56,Jaldhaka,জলঢাকা,26.2003292,89.3021954,jaldhaka.nilphamari.gov.bd
+426,56,Kishorganj,কিশোরগঞ্জ,24.3036399,90.7702615,kishorganj.nilphamari.gov.bd
+427,56,Nilphamari Sadar,নীলফামারী সদর,0.0,0.0,nilphamarisadar.nilphamari.gov.bd
+428,57,Sadullapur,সাদুল্লাপুর,23.9912624,89.3788281,sadullapur.gaibandha.gov.bd
+429,57,Gaibandha Sadar,গাইবান্ধা সদর,0.0,0.0,gaibandhasadar.gaibandha.gov.bd
+430,57,Palashbari,পলাশবাড়ী,25.9850684,88.8415049,palashbari.gaibandha.gov.bd
+431,57,Saghata,সাঘাটা,0.0,0.0,saghata.gaibandha.gov.bd
+432,57,Gobindaganj,গোবিন্দগঞ্জ,25.1339117,89.3857832,gobindaganj.gaibandha.gov.bd
+433,57,Sundarganj,সুন্দরগঞ্জ,25.5669663,89.5227662,sundarganj.gaibandha.gov.bd
+434,57,Phulchari,ফুলছড়ি,0.0,0.0,phulchari.gaibandha.gov.bd
+435,58,Thakurgaon Sadar,ঠাকুরগাঁও সদর,26.0340069,88.46267942449194,thakurgaonsadar.thakurgaon.gov.bd
+436,58,Pirganj,পীরগঞ্জ,25.416289,89.3164095,pirganj.thakurgaon.gov.bd
+437,58,Ranisankail,রাণীশংকৈল,25.9015206,88.2543889,ranisankail.thakurgaon.gov.bd
+438,58,Haripur,হরিপুর,27.0138578,85.54177236226059,haripur.thakurgaon.gov.bd
+439,58,Baliadangi,বালিয়াডাঙ্গী,26.0856143,88.2764013,baliadangi.thakurgaon.gov.bd
+440,59,Rangpur Sadar,রংপুর সদর,25.89377595,89.47057479825597,rangpursadar.rangpur.gov.bd
+441,59,Gangachara,গংগাচড়া,25.8054979,89.2372064,gangachara.rangpur.gov.bd
+442,59,Taragonj,তারাগঞ্জ,25.0841982,90.1958111,taragonj.rangpur.gov.bd
+443,59,Badargonj,বদরগঞ্জ,25.7434139,89.2300546,badargonj.rangpur.gov.bd
+444,59,Mithapukur,মিঠাপুকুর,22.3569672,90.34863155532024,mithapukur.rangpur.gov.bd
+445,59,Pirgonj,পীরগঞ্জ,22.5265014,90.7296145,pirgonj.rangpur.gov.bd
+446,59,Kaunia,কাউনিয়া,25.7733094,89.4190381,kaunia.rangpur.gov.bd
+447,59,Pirgacha,পীরগাছা,25.6621356,89.4082601,pirgacha.rangpur.gov.bd
+448,60,Kurigram Sadar,কুড়িগ্রাম সদর,25.8112019,89.6144683,kurigramsadar.kurigram.gov.bd
+449,60,Nageshwari,নাগেশ্বরী,25.9681024,89.6895759,nageshwari.kurigram.gov.bd
+450,60,Bhurungamari,ভুরুঙ্গামারী,26.1104617,89.6638474,bhurungamari.kurigram.gov.bd
+451,60,Phulbari,ফুলবাড়ী,28.61590415,80.69978482026164,phulbari.kurigram.gov.bd
+452,60,Rajarhat,রাজারহাট,22.6212802,88.48552309164045,rajarhat.kurigram.gov.bd
+453,60,Ulipur,উলিপুর,25.6558768,89.6191027,ulipur.kurigram.gov.bd
+454,60,Chilmari,চিলমারী,25.5850605,89.6622435,chilmari.kurigram.gov.bd
+455,60,Rowmari,রৌমারী,25.576821,89.8348269,rowmari.kurigram.gov.bd
+456,60,Charrajibpur,চর রাজিবপুর,0.0,0.0,charrajibpur.kurigram.gov.bd
+457,61,Sherpur Sadar,শেরপুর সদর,-4.5786201,119.8243834,sherpursadar.sherpur.gov.bd
+458,61,Nalitabari,নালিতাবাড়ী,25.0896639,90.194301,nalitabari.sherpur.gov.bd
+459,61,Sreebordi,শ্রীবরদী,0.0,0.0,sreebordi.sherpur.gov.bd
+460,61,Nokla,নকলা,0.0,0.0,nokla.sherpur.gov.bd
+461,61,Jhenaigati,ঝিনাইগাতী,0.0,0.0,jhenaigati.sherpur.gov.bd
+462,62,Fulbaria,ফুলবাড়ীয়া,24.1864353,90.2966132,fulbaria.mymensingh.gov.bd
+463,62,Trishal,ত্রিশাল,24.5801146,90.3971402,trishal.mymensingh.gov.bd
+464,62,Bhaluka,ভালুকা,24.404455,90.3863536,bhaluka.mymensingh.gov.bd
+465,62,Muktagacha,মুক্তাগাছা,24.7651553,90.2583669,muktagacha.mymensingh.gov.bd
+466,62,Mymensingh Sadar,ময়মনসিংহ সদর,24.8680673,90.7419956,mymensinghsadar.mymensingh.gov.bd
+467,62,Dhobaura,ধোবাউড়া,25.0975326,90.4606544,dhobaura.mymensingh.gov.bd
+468,62,Phulpur,ফুলপুর,26.03519585,82.79883384377142,phulpur.mymensingh.gov.bd
+469,62,Haluaghat,হালুয়াঘাট,25.1222567,90.3395618,haluaghat.mymensingh.gov.bd
+470,62,Gouripur,গৌরীপুর,24.7600679,90.5703878,gouripur.mymensingh.gov.bd
+471,62,Gafargaon,গফরগাঁও,24.4550778,90.5498526,gafargaon.mymensingh.gov.bd
+472,62,Iswarganj,ঈশ্বরগঞ্জ,0.0,0.0,iswarganj.mymensingh.gov.bd
+473,62,Nandail,নান্দাইল,24.5703293,90.6866685,nandail.mymensingh.gov.bd
+474,62,Tarakanda,তারাকান্দা,24.8333993,90.4381487,tarakanda.mymensingh.gov.bd
+475,63,Jamalpur Sadar,জামালপুর সদর,0.0,0.0,jamalpursadar.jamalpur.gov.bd
+476,63,Melandah,মেলান্দহ,24.949468,89.8854452,melandah.jamalpur.gov.bd
+477,63,Islampur,ইসলামপুর,25.097341450000002,85.26190556056528,islampur.jamalpur.gov.bd
+478,63,Dewangonj,দেওয়ানগঞ্জ,25.1702493,89.7719739,dewangonj.jamalpur.gov.bd
+479,63,Sarishabari,সরিষাবাড়ী,24.7499467,89.8331666,sarishabari.jamalpur.gov.bd
+480,63,Madarganj,মাদারগঞ্জ,25.4261491,89.3800255,madarganj.jamalpur.gov.bd
+481,63,Bokshiganj,বকশীগঞ্জ,0.0,0.0,bokshiganj.jamalpur.gov.bd
+482,64,Barhatta,বারহাট্টা,24.891979,90.8918435,barhatta.netrokona.gov.bd
+483,64,Durgapur,দুর্গাপুর,23.5350475,87.3380425,durgapur.netrokona.gov.bd
+484,64,Kendua,কেন্দুয়া,24.6617233,90.8454168,kendua.netrokona.gov.bd
+485,64,Atpara,আটপাড়া,26.0775999,73.7368869,atpara.netrokona.gov.bd
+486,64,Madan,মদন,-5.2129115,145.8088188,madan.netrokona.gov.bd
+487,64,Khaliajuri,খালিয়াজুরী,24.6912562,91.1411753,khaliajuri.netrokona.gov.bd
+488,64,Kalmakanda,কলমাকান্দা,25.0771586,90.8882575,kalmakanda.netrokona.gov.bd
+489,64,Mohongonj,মোহনগঞ্জ,24.8756126,90.97704694172681,mohongonj.netrokona.gov.bd
+490,64,Purbadhala,পূর্বধলা,24.941217,90.6115563,purbadhala.netrokona.gov.bd
+491,64,Netrokona Sadar,নেত্রকোণা সদর,24.871259,90.7276578,netrokonasadar.netrokona.gov.bd
+492,38,shayestaganj,শায়েস্তাগঞ্জ,24.2328977,91.4483097,http://shayestaganj.habiganj.gov.bd
