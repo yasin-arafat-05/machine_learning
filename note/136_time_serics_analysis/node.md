@@ -111,11 +111,11 @@
 <br>
 <br>
 
-**Time Serics Data:** Ovservations collected over a sequence of time intervals. And this time inverval may be in daily, weekly, secons or monthly basis. For example: in the below image, there have an date that means it's a time serics data. And time intervals:
+**Time Series Data:** Ovservations collected over a sequence of time intervals. And this time inverval may be in daily, weekly, secons or monthly basis. For example: in the below image, there have an date that means it's a time series data. And time intervals:
 
 ![image](img/img01.png)
 
-Example of time serics data:
+Example of time series data:
 - Stock Price 
 - Sales Data
 - Weather Data
@@ -182,7 +182,34 @@ This is about breaking down the data into different patterns:
 
 ![image](img/img04.png)
 
-`Almost similar pattern, like in above image, the month (06-07) and the month (07-08) almost similar pattern. And for the both cases, from beginning of the months.`
+`Almost similar pattern, like in above image, the month (06-07) and the month (07-08) almost similar pattern. And for the both cases, from beginning of the months(fixed intervals).Like, see of AC increate in summer and decrese in winter.It's a seasonality.`
 
 
-**iii. Cyclic:** Different from seasonality, 
+**iii. Cyclic:** Different from seasonality, will be repeat the pattern but not in fixed time intervals that happen in seasonality. There are two cycle
+- Economic 
+- Business 
+
+**iv. Residuals/Noise:** Suddden fluctuation.
+
+![image](img/img05.png)
+
+`Marked circle is a residuals or Noise.`
+
+<br>
+
+`**Type of decomposition Model:`
+
+There are two types of decomposition model,
+- Additive 
+- Multiplicative
+
+![image](img/img06.png)
+
+`In 1st, image trend is increasing. But, the seasonality is also increase by the time.This type of model is called Multiplicative model. On the other hand, the second image is a additive model, trend is increasing but seasonality is fixed.`
+
+![image](img/img04.png)
+
+`Here, our decomposition model is addtitive in the upwording trend.`
+
+## [Code_Example]()
+
