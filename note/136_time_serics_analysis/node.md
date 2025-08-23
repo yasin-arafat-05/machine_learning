@@ -203,6 +203,8 @@ There are two types of decomposition model,
 - Additive 
 - Multiplicative
 
+The two main types of **Time Series Decomposition** models: **Additive** and **Multiplicative**. The Additive model represents the time series as a sum of its components ($Y_t = T_t + S_t + R_t$), while the Multiplicative model represents it as a product of its components ($Y_t = T_t \cdot S_t \cdot R_t$).
+
 ![image](img/img06.png)
 
 `In 1st, image trend is increasing. But, the seasonality is also increase by the time.This type of model is called Multiplicative model. On the other hand, the second image is a additive model, trend is increasing but seasonality is fixed.`
@@ -211,5 +213,19 @@ There are two types of decomposition model,
 
 `Here, our decomposition model is addtitive in the upwording trend.`
 
-## [Code_Example]()
+**Classicial Decomposition:**
+## [01_Classifical_Decompostion]()
+
+**STL Decomposition using (LOESS):**
+- LOESS - Locally Estimated Scatterplot Smoothing
+- Difference Between Classicial vs STL Decomposition:
+    - Classicial give us fixed seasonal pattern always, on the other hand STL give us the actual seasonal pattern.
+    - Classicial easily influence by outliers, but STL does not.
+    - Classicial can work with both(additive,multiplicative) but on the other hand STL work only (additive).
+## [02_STL_Decomposition]()
+
+
+
+
+
 
