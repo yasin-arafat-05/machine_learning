@@ -214,7 +214,15 @@ The two main types of **Time Series Decomposition** models: **Additive** and **M
 `Here, our decomposition model is addtitive in the upwording trend.`
 
 **Classicial Decomposition:**
-## [01_Classifical_Decompostion]()
+## [01_Classifical_Decompostion](https://github.com/yasin-arafat-05/machine_learning/blob/main/code/136_time_serics.ipynb)
+
+
+<br>
+<br>
+
+# `#3. STL Decomposition (Seasonal and Trend Decomposition using LOESS):`
+<br>
+<br>
 
 **STL Decomposition using (LOESS):**
 - LOESS - Locally Estimated Scatterplot Smoothing
@@ -222,7 +230,131 @@ The two main types of **Time Series Decomposition** models: **Additive** and **M
     - Classicial give us fixed seasonal pattern always, on the other hand STL give us the actual seasonal pattern.
     - Classicial easily influence by outliers, but STL does not.
     - Classicial can work with both(additive,multiplicative) but on the other hand STL work only (additive).
-## [02_STL_Decomposition]()
+## [02_STL_Decomposition](https://github.com/yasin-arafat-05/machine_learning/blob/main/code/136_time_serics.ipynb)
+
+
+
+<br>
+<br>
+
+# `#04: Stationarity`
+
+<br>
+<br>
+
+![image](img/img07.png)
+
+1.  **"mean | variance | auto correlation → constant over time."**
+    *   **Constant Mean:** The average value of the series does not have a trend or seasonal pattern; it fluctuates around a fixed level.
+    *   **Constant Variance:** The spread or volatility of the data points around the mean is stable over time (this property is also called **homoscedasticity**).
+    *   **Constant Auto Correlation:** The relationship (covariance) between data points separated by a specific time lag (e.g., today's value and yesterday's value) depends only on the length of that lag (*k*), not on the specific time (*t*) you are at. For example, the correlation between January and February is the same as the correlation between July and August if the lag is 1 month.
+
+
+### Why is this Important?
+Stationarity is a critical assumption in many time series models (like ARIMA). If a time series is non-stationary (e.g., it has a strong trend or changing variance), the results of statistical models can be misleading and forecasts will be unreliable. Analysts often use techniques like **differencing** or **transformation** to make a non-stationary series stationary before modeling it.**In short if we do stationarity, then the statical property of every seasonality is same then it's easy to predit the future.Hence, make prediction easier, because it assume same statistical property through the time. And all forcasting model assume data is stationary.**
+
+
+### Type of Stationarity
+- **Weak stationarity:** Constant mean, variance and auto-corelation. But join distribution can change.
+- **Strict Stationarity:** Exhibits the properties of weak stationarity. And join distribution remain unchanges when shifted along any time period. 
+
+**The mathematical expression illustrates this(join distribution remain unchange):**<br>
+$(y_{t1}, y_{t2}, \ldots, y_{tn}) \iff (y_{t1+k}, y_{t2+k}, \ldots, y_{tn+k})$
+
+This means:
+*   The **joint distribution** of the random variables at times `t1, t2, ..., tn`
+*   is **identical to**
+*   the **joint distribution** of the random variables at any **shifted set of times** `t1+k, t2+k, ..., tn+k`
+
+(where `k` is any integer, representing any shift "+ve"forward or "-ve" backward in time).
+
+### Stationary Mean and Variance:
+![image](img/img08.png)
+
+
+### Stationary Variance Non-Stationary Mean:
+![image](img/img09.png)
+
+
+### Stationary Mean Non-Stationary Variance:
+![image](img/img10.png)
+
+
+<br>
+
+![image](img/img11.png)
+**Mean Depend on Time:** Mean is changing over time.
+**Variance Depend on Time:** Variance changing over time.
+**Co-variance Depend on Time:** Co-variance is changing over time.
+
+<br>
+
+**Mean independent on Time:** 
+**Variance independent on Time:**
+**Covariance independent on Time:**
+**If we have I)Mean independent on time. II)Variance independent on time. III)Covariance independent on time, Then we can say it's a Strictly Stationary.**
+
+<br>
+<br>
+
+### Why we will use strict or when we will use weak Stationary?
+
+- For different forcasting model and for short period of data. Like, a compnay sales data about 10 years but we are using only 3years in this case we need **Weak Stationary.**
+
+- When we work with whole data or modeling entire distribution of data then we use **Strict Stationary.**
+
+<br>
+<br>
+<br>
+
+## Test for Stationary. 
+`Which method or test we use to determine a time-serics-data is stationary or not?`
+
+- Checking weak stationary:
+    - ADF(Augmented Dickey-Fuller) Test
+    - KPSS(Kwiatkowski–Phillips–Schmidt–Shin) Test
+
+**ADF TEST:**
+<br>
+
+![image](img/img12.png)
+
+
+**KPSS Test:**
+<br>
+
+![image](img/img13.png)
+![image](img/img14.png)
+
+`If we got same result from both ADF and KPSS test then our time serics data is really Weak Stationary.`
+
+
+### Strict Stationary test:
+`We alrady know, weak statinary contain, all the property that are present in a weak stationary Time-Serics-Data.So, after doing ADF and KPSS test we must check the Time-Serics-Data is Strict Sationary or not.For, strict stationary we do **KS-Test** `
+![image](img/img15.png)
+![image](img/img16.png)
+
+<br>
+<br>
+<br>
+
+### Making a time serics, Stationary:
+- Differencing
+- Transformation 
+- Logarithmic Transformation | Power Transformation | Box Cox Transformation
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
