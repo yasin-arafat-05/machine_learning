@@ -31,3 +31,14 @@
 
 
 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+## [derivation_of_BCE_LOSS_FUNCTION](https://www.python-unleashed.com/post/derivation-of-the-binary-cross-entropy-loss-gradient)
+
+
