@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 470" width="480" height="470" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <rect width="480" height="470" fill="#fcfcfb"/>
+  <!-- grid -->
+  <g stroke="#e6e5e0" stroke-width="1">
+    <line x1="60" y1="40" x2="420" y2="40"/><line x1="60" y1="112" x2="420" y2="112"/>
+    <line x1="60" y1="184" x2="420" y2="184"/><line x1="60" y1="256" x2="420" y2="256"/>
+    <line x1="60" y1="328" x2="420" y2="328"/>
+    <line x1="132" y1="40" x2="132" y2="400"/><line x1="204" y1="40" x2="204" y2="400"/>
+    <line x1="276" y1="40" x2="276" y2="400"/><line x1="348" y1="40" x2="348" y2="400"/>
+    <line x1="420" y1="40" x2="420" y2="400"/>
+  </g>
+  <!-- axes -->
+  <g stroke="#52514e" stroke-width="1">
+    <line x1="60" y1="400" x2="420" y2="400"/><line x1="60" y1="40" x2="60" y2="400"/>
+  </g>
+  <!-- AUC shading -->
+  <path d="M60,400 L60,328 L132,328 L132,184 L204,184 L204,112 L420,112 L420,40 L420,400 Z" fill="#cde2fb" opacity="0.6"/>
+  <!-- random classifier diagonal -->
+  <line x1="60" y1="400" x2="420" y2="40" stroke="#8a8984" stroke-width="1.5" stroke-dasharray="5,5"/>
+  <text x="262" y="232" fill="#52514e" font-size="12" transform="rotate(-45 262 232)">random guess (AUC = 0.5)</text>
+  <!-- ROC curve -->
+  <polyline points="60,400 60,328 132,328 132,256 132,184 204,184 204,112 276,112 348,112 420,112 420,40"
+            fill="none" stroke="#2a78d6" stroke-width="2" stroke-linejoin="round"/>
+  <g fill="#2a78d6" stroke="#fcfcfb" stroke-width="2">
+    <circle cx="60" cy="328" r="5"/><circle cx="132" cy="328" r="5"/><circle cx="132" cy="256" r="5"/>
+    <circle cx="132" cy="184" r="5"/><circle cx="204" cy="184" r="5"/><circle cx="204" cy="112" r="5"/>
+    <circle cx="276" cy="112" r="5"/><circle cx="348" cy="112" r="5"/><circle cx="420" cy="112" r="5"/>
+    <circle cx="420" cy="40" r="5"/>
+  </g>
+  <!-- selective labels (tuple #) -->
+  <g fill="#0b0b0b" font-size="11">
+    <text x="66" y="322">#1</text><text x="138" y="322">#2</text><text x="138" y="250">#3</text>
+    <text x="138" y="178">#4</text><text x="210" y="178">#5</text><text x="210" y="106">#6</text>
+    <text x="270" y="104">#7</text><text x="342" y="104">#8</text><text x="388" y="124">#9</text>
+    <text x="396" y="36">#10</text>
+  </g>
+  <text x="240" y="300" fill="#0b0b0b" font-size="15" font-weight="600">AUC = 0.64</text>
+  <!-- tick labels -->
+  <g fill="#52514e" font-size="11" text-anchor="middle">
+    <text x="60" y="416">0</text><text x="132" y="416">0.2</text><text x="204" y="416">0.4</text>
+    <text x="276" y="416">0.6</text><text x="348" y="416">0.8</text><text x="420" y="416">1.0</text>
+  </g>
+  <g fill="#52514e" font-size="11" text-anchor="end">
+    <text x="52" y="404">0</text><text x="52" y="332">0.2</text><text x="52" y="260">0.4</text>
+    <text x="52" y="188">0.6</text><text x="52" y="116">0.8</text><text x="52" y="44">1.0</text>
+  </g>
+  <text x="240" y="446" fill="#0b0b0b" font-size="13" text-anchor="middle">FPR (Cost)</text>
+  <text x="18" y="220" fill="#0b0b0b" font-size="13" text-anchor="middle" transform="rotate(-90 18 220)">TPR (Benefit)</text>
+  <text x="60" y="24" fill="#0b0b0b" font-size="14" font-weight="600">ROC curve — Figure 8.25 data</text>
+</svg>
